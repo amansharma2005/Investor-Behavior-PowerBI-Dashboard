@@ -94,7 +94,7 @@ Investor-Behavior-PowerBI-Dashboard/
 │
 ├── Dashboard.pbix
 ├── Data_set_2.csv
-├── dashboard-screenshot.png
+├── dashboard-screenshot.jpeg
 └── README.md
 ```
 
