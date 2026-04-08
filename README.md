@@ -1,3 +1,8 @@
+![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)
+![DAX](https://img.shields.io/badge/Language-DAX-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+
 # Investor Behavior & Investment Preference Dashboard
 
 ## Overview
@@ -19,6 +24,20 @@ The objective of this project is to explore and visualize:
 * Sources of financial information used by investors
 
 ---
+
+## Problem Statement
+Understanding investor behavior is crucial for financial institutions and analysts to identify investment trends, risk preferences, and decision-making patterns.
+
+## Business Use Case
+This dashboard can help financial advisors and institutions understand investor segmentation and optimize investment advisory strategies.
+
+## DAX Measures Used
+- Average Age
+- Total Investors
+- Investment Preference Score
+- Gender-Based Aggregations
+- Objective-Based Comparisons
+
 
 ## Dashboard Features
 
@@ -87,6 +106,11 @@ The objective of this project is to explore and visualize:
 
 ---
 
+## Dashboard Screenshots
+
+### Final Dashboard
+![Dashboard](dashboard-screenshot.jpeg)
+
 ## Project Structure
 
 ```text
@@ -124,7 +148,7 @@ Through this project, I strengthened my understanding of:
 
 ## Author
 
-**Aman**
+**Aman Sharma** 
 B.Tech CSE (AI/ML) Student
 Passionate about AI, ML, Data Analytics, and Business Intelligence
 
